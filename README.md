@@ -1,3 +1,7 @@
+# Purpose of forking this repo is to try deploying python flask webapp on azure cloud 
+
+you can access it [here](https://flaskwebapp-1.azurewebsites.net/)
+
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
